@@ -1,4 +1,3 @@
-'''Python
 class SobreMim:
   
     def __init__(self, nome, idade, profissao, interesses, linguagens_programacao, contato):
@@ -8,4 +7,3 @@ class SobreMim:
         self.interesses = 'Sou aspirante a programador. Tenho o interesse em me tornar um Full-Stack Enginner'
         self.linguagens_programacao = 'Domino bem o Python. Estou estudando sobre HTML, CSS and Javascript'
         self.contato = 'mrgobetti0@gmail.com'
-'''
