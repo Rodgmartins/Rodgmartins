@@ -9,6 +9,5 @@ class SobreMim:
         self.linguagens_programacao = 'Domino bem o Python. Estou estudando sobre HTML, CSS and Javascript'
         self.contato = 'mrgobetti0@gmail.com'
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodgmartins&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgmartins)](https://github.com/anuraghazra/github-readme-stats)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodgmartins&show_icons=true&theme=default) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgmartins)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
