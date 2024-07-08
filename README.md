@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Rodgmartins/Rodgmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Python
+class SobreMim:
+  
+    def __init__(self, nome, idade, profissao, interesses, linguagens_programacao, contato):
+        self.nome = 'Rodrigo G Martins'
+        self.idade = 29
+        self.profissao = 'Atualmente Crossfit Coach'
+        self.interesses = 'Sou aspirante a programador. Tenho o interesse em me tornar um Full-Stack Enginner'
+        self.linguagens_programacao = 'Domino bem o Python. Estou estudando sobre HTML, CSS and Javascript'
+        self.contato = 'mrgobetti0@gmail.com'
+```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodgmartins)](https://github.com/anuraghazra/github-readme-stats)
