@@ -1,4 +1,4 @@
-```Python
+```python
 class SobreMim:
   
     def __init__(self, nome, idade, profissao, interesses, linguagens_programacao, contato):
