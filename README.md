@@ -2,7 +2,7 @@
 class SobreMim:
   
     def __init__(self, nome, idade, profissao, interesses, linguagens_programacao, contato):
-        self.nome = 'Rodrigo G Martins'
+        self.nome = 
         self.idade = 29
         self.profissao = 'Atualmente Crossfit Coach'
         self.interesses = 'Sou aspirante a programador. Tenho o interesse em me tornar um Full-Stack Enginner'
